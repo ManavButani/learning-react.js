@@ -1,0 +1,2 @@
+/learning1
+/tutorial/node_modules
